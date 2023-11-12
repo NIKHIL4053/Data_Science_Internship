@@ -36,10 +36,11 @@ The project uses the `tested.csv` file as the input data, which contains 418 row
 To run the project, you need to have Python 3 and the required libraries installed on your system. You can use the following commands to install the libraries:
 
 ```python
+pip install pandas
 pip install numpy
 pip install matplotlib
 pip install seaborn
-pip install sklearn
+pip install scikit-learn
 ```
 
 Then, you can clone this repository or download the files to your local machine. You can use the following command to clone the repository:
